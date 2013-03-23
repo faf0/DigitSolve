@@ -47,8 +47,8 @@ I prefer using GHCi to run the code.
 Use the following calls to get the answers to problem 1 and 2,
 respectively:
 
-	`firstPrime (toDecimalString (eulerApprox 300) 500) 10'
-	`findDigitSum (toDecimalString (eulerApprox 200) 300) 10 49 5'
+	firstPrime (toDecimalString (eulerApprox 300) 500) 10
+	findDigitSum (toDecimalString (eulerApprox 200) 300) 10 49 5
 
 Purpose
 -------
